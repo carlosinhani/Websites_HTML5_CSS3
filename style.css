@@ -6,8 +6,8 @@ body {
 }
 
 .photo {
-    border: 1px solid #34495e;
-    border-radius: 35%;
+    border-radius: 50%;
+    padding: 10px;
    
     
 }
